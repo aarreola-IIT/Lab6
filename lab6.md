@@ -21,9 +21,9 @@ want to do multiple sketches or mock-ups, each highlighting a different feature 
 Create a Lab 6 BaseCamp post that include:
 
 1) Photographs of sketches (or mock-ups) of your new design.
-![lab6_start](images/lab6_start.jpg "lab6 2-in-1")
+![Lab6_start](images/Lab6_start.jpg "lab6 2-in-1")
 ![lab6_changes](images/lab6_changes.png "Lab6 changes")
-![lab6_mockup](images/lab6_mockup.png "Lab6 mockup")
+![lab6_mockup](images/Lab6_mockup.png "Lab6 mockup")
 
   
 2) An explanation of three different points of guidance from your chosen guidelines (point to the
